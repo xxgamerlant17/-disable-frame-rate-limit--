@@ -1,0 +1,3 @@
+-disable-frame-rate-limit
+-
+copy the word and wach the video
